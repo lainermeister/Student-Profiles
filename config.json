@@ -1,0 +1,6 @@
+{
+  "install": "npm install",
+  "server": "npm run server",
+  "run": "npm start",
+  "port": 8080
+}
