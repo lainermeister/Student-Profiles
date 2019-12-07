@@ -19,3 +19,25 @@ App was built using functional React components powered by React Hooks.
   - Search
   - StudentList
     - ExpandedDetails
+
+## To run app
+
+First install dependencies:
+
+```sh
+npm install
+```
+
+Then start the `json-server`:
+
+```sh
+npm run server
+```
+
+Then start client:
+
+```sh
+npm start
+```
+
+Navigate to `http://localhost:8080` in your browser
